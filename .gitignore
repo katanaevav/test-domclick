@@ -1,0 +1,14 @@
+# Файлы и папки операционной системы
+.DS_Store
+Thumbs.db
+
+# Файлы редактора
+.vscode
+
+# Вспомогательные файлы
+*.log*
+node_modules/
+
+# Файлы сборки
+public/bundle.js
+public/bundle.js.map
